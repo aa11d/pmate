@@ -1,0 +1,8 @@
+﻿Kovács Péter;1996-12-07;Budapest;1
+Kiss András Zsolt;2001-03-15;Csőcs;3
+Judit Répa;2003-11-24;Ózd;5
+Durcás Andrea;2009-11-21;Miskolc;2
+
+
+Rendes Gyerek;2010-12-01;Szentendre;7
+

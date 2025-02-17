@@ -1,0 +1,17 @@
+D:\palffymate\git\pmate\0217\0217\bin\Debug\net8.0-windows\0217.exe
+D:\palffymate\git\pmate\0217\0217\bin\Debug\net8.0-windows\0217.deps.json
+D:\palffymate\git\pmate\0217\0217\bin\Debug\net8.0-windows\0217.runtimeconfig.json
+D:\palffymate\git\pmate\0217\0217\bin\Debug\net8.0-windows\0217.dll
+D:\palffymate\git\pmate\0217\0217\bin\Debug\net8.0-windows\0217.pdb
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\_0217.foablak.resources
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.csproj.GenerateResource.cache
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.GeneratedMSBuildEditorConfig.editorconfig
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.AssemblyInfoInputs.cache
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.AssemblyInfo.cs
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.csproj.CoreCompileInputs.cache
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.sourcelink.json
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.dll
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\refint\0217.dll
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.pdb
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\0217.genruntimeconfig.cache
+D:\palffymate\git\pmate\0217\0217\obj\Debug\net8.0-windows\ref\0217.dll
