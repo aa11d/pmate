@@ -1,0 +1,17 @@
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\bin\Debug\net8.0-windows\0311_szamologepKetablakos.exe
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\bin\Debug\net8.0-windows\0311_szamologepKetablakos.deps.json
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\bin\Debug\net8.0-windows\0311_szamologepKetablakos.runtimeconfig.json
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\bin\Debug\net8.0-windows\0311_szamologepKetablakos.dll
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\bin\Debug\net8.0-windows\0311_szamologepKetablakos.pdb
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\_0311_szamologepKetablakos.Form1.resources
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.csproj.GenerateResource.cache
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.AssemblyInfoInputs.cache
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.AssemblyInfo.cs
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.csproj.CoreCompileInputs.cache
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.sourcelink.json
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.dll
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\refint\0311_szamologepKetablakos.dll
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.pdb
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\0311_szamologepKetablakos.genruntimeconfig.cache
+D:\Málffy Páté\pmate\0311_szamologepKetablakos\0311_szamologepKetablakos\obj\Debug\net8.0-windows\ref\0311_szamologepKetablakos.dll
